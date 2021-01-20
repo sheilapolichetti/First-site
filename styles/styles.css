@@ -1,6 +1,25 @@
-h2 {
-    color: #0000FF;
+#title {
+    display: flex;
+    font-size: 3rem;
+    display: inline-block;
     position: relative;
-    font-size: 30px;
-    text-align: inline;
 }
+
+body {
+    background-color:rgb(46, 44, 44);
+    color:ghostwhite;
+}
+
+.row {
+    display: flex;
+    color:ghostwhite;
+}
+
+.logo {
+    height: 150px;
+    width: 150px;
+    background-color: dimgrey;
+    
+
+}
+
