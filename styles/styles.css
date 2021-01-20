@@ -8,18 +8,23 @@
 body {
     background-color:rgb(46, 44, 44);
     color:ghostwhite;
+    font-family: 'Oswald', sans-serif;
 }
 
 .row {
     display: flex;
     color:ghostwhite;
+    margin-left: auto;
+    justify-content: space-between;
 }
 
 .logo {
     height: 150px;
     width: 150px;
     background-color: dimgrey;
-    
+}
 
+.logo {
+    border: 10px ghostwhite;
 }
 
