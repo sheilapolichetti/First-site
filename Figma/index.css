@@ -1,0 +1,18 @@
+.logo {
+    font-family: Circular Std;
+font-style: normal;
+font-weight: 900;
+font-size: 30px;
+line-height: 160%;
+/* or 48px */
+
+letter-spacing: -0.02em;
+
+color: #0A1B32;
+margin-top: 37px;
+margin-left: 80px;
+}
+
+.logo-dot {
+    color: #33A2E0;
+}
